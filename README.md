@@ -12,5 +12,5 @@ This will require two USB drives, one formatted to FAT (not fat 32 or exFAT) thi
 3) Power down your MacBook Pro, then hold Option + power until you see the apple logo disapear, plug in your windows install drive and install windows.
 4) then, when windows is installed and you can accsess your file system, plug in your other USB with the bootcamp stuff in it.
 5) run all files in the folder "$WinPEDriver$" individually and then the application named "Setup" in the "BootCamp" folder.
-6) Finally, download and install all updates and optional updates, includeing those found in the newly donwloaded application "Apple Update Software" restarting as needed, as well as doing one final restart when completed and use your new windows flavored MacBook as needed :)
+6) Finally, download and install all updates and optional updates, includeing those found in the newly donwloaded application "Apple Update Software" restarting as needed, as well as doing one final restart when completed and begin useing your new windows flavored MacBook :)
    
