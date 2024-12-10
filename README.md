@@ -8,8 +8,8 @@ This will require two USB drives, one formatted to FAT (not fat 32 or exFAT) thi
 
 
 1) To start go to: "https://www.microsoft.com/en-us/software-download/windows10" and download the windows 10 media creation tool. Go ahead and run the program, and use it to to create a windows installtion device on your 8 GB USB. One compleated, you may label the drive and set aside.
-2) Next, extract useing 7-Zip the bootcamp_stuff.7z folders contents into your 4GB USB, no need to keep the bootcamp_stuff folder, it's contents have the important stuff.
-3) Power down your MacBook Pro, then hold Option + power until you see the appple logo disapear, plug in your windows install drive and install windows.
+2) Next, extract useing 7-Zip the bootcamp_stuff.7z folders contents into your 4GB USB, no need to keep the bootcamp_stuff folder, it's contents has the important stuff.
+3) Power down your MacBook Pro, then hold Option + power until you see the apple logo disapear, plug in your windows install drive and install windows.
 4) then, when windows is installed and you can accsess your file system, plug in your other USB with the bootcamp stuff in it.
 5) run all files in the folder "$WinPEDriver$" individually and then the application named "Setup" in the "BootCamp" folder.
 6) Finally, download and install all updates and optional updates, includeing those found in the newly donwloaded application "Apple Update Software" restarting as needed, as well as doing one final restart when completed and use your new windows flavored MacBook as needed :)
